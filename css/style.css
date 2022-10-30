@@ -17,8 +17,8 @@ main{
 .main__container{
         position: relative;
         height: 2000px;
-        width: 5500px;
-        background-color:  rgb(15, 95, 51);
+        /* width: 5500px; */
+        /* background-color:  rgb(83, 199, 135); */
     }
 header{
     background-color: rgb(15, 95, 51);
